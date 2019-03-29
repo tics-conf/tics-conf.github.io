@@ -3,3 +3,12 @@ languageCode = "en-us"
 title = "TICS website"
 
 theme = "mondrian"
+# Theme config
+[params]
+  showHeader = true
+  showTags = true
+  debug = false
+  [params.colors]
+    post = "orangered"
+    page = "gold"
+    sketch = "limegreen"

@@ -20,7 +20,7 @@ echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public origin/gh-pages
 
 echo "Initializing theme submodules"
-git submodule init
+git add submodule https://github.com/redraw/hugo-mondrian-theme.git themes/mondrian
 
 echo "Removing existing files"
 rm -rf public/*

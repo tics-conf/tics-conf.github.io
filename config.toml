@@ -14,7 +14,7 @@ theme = "mondrian"
   [params.colors]
     post = "orangered"
     posts = "gold"
-    page = "blue"
+    page = "#cb0713"
     sketch = "limegreen"
 
 

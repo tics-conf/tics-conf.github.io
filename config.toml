@@ -18,12 +18,8 @@ theme = "mondrian"
     sketch = "limegreen"
 
 
-[menu]
-  [[menu.main]]
-    name = "previous editions"
-    url = "/past"
-    weight = 1
+#[menu]
 #  [[menu.main]]
-#    name = "about"
-#    url = "/about"
-#    weight = 2
+#    name = "previous editions"
+#    url = "/past"
+#    weight = 1

@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://tics.site"
 languageCode = "en-us"
-title = "TICS website"
+title = "TICS - Topics on Internet Censorship and Surveillance"
 
 theme = "mondrian"
 # Theme config
@@ -14,7 +14,7 @@ theme = "mondrian"
   [params.colors]
     post = "orangered"
     posts = "gold"
-    page = "#cb0713"
+    page = "blue"
     sketch = "limegreen"
 
 

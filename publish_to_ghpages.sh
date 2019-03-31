@@ -20,13 +20,13 @@ echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public origin/gh-pages
 
 echo "Initializing theme submodules"
-git add submodule https://github.com/redraw/hugo-mondrian-theme.git themes/mondrian
-
-echo "Creating CNAME for tics.site domain"
-echo tics.site >> CNAME
+git submodule add https://github.com/redraw/hugo-mondrian-theme.git themes/mondrian
 
 echo "Removing existing files"
 rm -rf public/*
+
+echo "Creating CNAME for tics.site domain"
+echo tics.site > public/CNAME
 
 echo "Generating site"
 hugo

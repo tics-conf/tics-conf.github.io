@@ -14,4 +14,12 @@ theme = "mondrian"
   [params.colors]
     post = "orangered"
     posts = "gold"
-    page = "blue"
+    page = "#cb0713"
+    sketch = "limegreen"
+
+
+#[menu]
+#  [[menu.main]]
+#    name = "previous editions"
+#    url = "/past"
+#    weight = 1

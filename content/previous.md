@@ -20,18 +20,21 @@ CFP: https://www.iaria.org/conferences2019/filesICN19/TICS.pdf
 
 Conference Program: https://www.iaria.org/conferences2019/ProgramICN19.html
 
-### CENO and Ouinet: Ignore censorship with P2P-backed Web browsing
+* **CENO and Ouinet: Ignore Censorship with P2P-Backed Web Browsing**
+  [[presentation](/proceedings/2019a/icn_2019_vil2019.pdf)]<br>
+  Ivan Vilata-i-Balaguer, Peter Jankuliak, Dmitriy Volkov<br>
+  In Proc. of: *International Conference on Networking and Services*, **2019**, ICN
 
-Presenter: Dmitry | Paper: XXX | Presentation: XXX
+* **Distributed Detection of Tor Directory Authorities Censorship in Mexico**
+  [[paper](/proceedings/2019a/icn_2019_6_20_38010.pdf)]<br>
+  Gunnar Eyal Wolf Iszaevich<br>
+  In Proc. of: *International Conference on Networking and Services*, **2019**, ICN
 
-### Distributed Detection of Tor Directory Authorities Censorship in Mexico
+* **Civil Forensic on Removing Roadblocks to the Growth Tor Network from Latin American**<br>
+  Jacobo Nájera<br>
+  In Proc. of: *International Conference on Networking and Services*, **2019**, ICN
 
-Presenter: Gunnar Wolf | Paper: | XXX Presentation: XXX
-
-### Civil forensic on removing roadblocks to the growth Tor Network from Latin American
-
-Presenter: Jacobo Nájera | Paper: XXX | Presentation: XXX
-
-### Early Detection of Censorship Events with Circumvention Network Data
-
-Presenter: Keith McManamen & Semin Kargar | Paper: XXX | Presentation: XXX
+* **Early Detection of Censorship Events With Psiphon Network Data**
+  [[paper](/proceedings/2019a/icn_2019_7_10_38005.pdf)]<br>
+  Simin Kargar, Keith McManamen, Jacob Klein<br>
+  In Proc. of: *International Conference on Networking and Services*, **2019**, ICN

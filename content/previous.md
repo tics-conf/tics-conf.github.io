@@ -33,6 +33,7 @@ Conference Program: https://www.iaria.org/conferences2019/ProgramICN19.html
 
 * **Civil Forensic on Removing Roadblocks to the Growth Tor Network from Latin American**<br>
   Jacobo Nájera<br>
+  [[presentation](/proceedings/2019a/icn_2019_naj2019.pdf)]<br>
   In Proc. of: *International Conference on Networking and Services*, **2019**, ICN
 
 * **Early Detection of Censorship Events With Psiphon Network Data**

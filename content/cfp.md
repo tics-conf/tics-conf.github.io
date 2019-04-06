@@ -5,6 +5,4 @@ showOnIndex: true
 weight: 2
 ---
 
-This is a post used in order to test TICS website.
-
-Enjoy!
+No active Call For Paper at the moment.

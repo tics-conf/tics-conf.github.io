@@ -19,9 +19,8 @@ in good faith, into a censorship and surveillance apparatus owned by
 corporations and national agencies. Consequently, users are bound to an
 Orwellian Internet where mainstream platforms -- such as search engines, social
 media, and content providers -- place the blame for filter bubbles and extensive
-user behavioral analysis on artificial intelligence.  This is alarming, since it is particularly
-difficult to detect bias, deliberate human intervention, or that inferences have
-unreportedly been made for purposes other than platform personalization. TICS
+user behavioral analysis on artificial intelligence. This is alarming, since it is particularly
+difficult to distinguish between AI bias and deliberate human intervention. TICS
 aims to explore the technological, socio-economic, and legal means and driving
 forces behind these issues, and to propose alternative directions for building a
 semantic and human-centric web that promotes empowerment of individuals to decide

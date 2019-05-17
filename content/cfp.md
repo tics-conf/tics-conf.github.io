@@ -11,6 +11,8 @@ weight: 2
 **Collocated with the IEEE/WIC/ACM International Conference on Web Intelligence <br>
 https://webintelligence2019.com (14-17 October 2019 | Thessaloniki, Greece)**
 
+**[Paper submission area](https://wi-lab.com/cyberchair/2019/wi19/scripts/submit.php?subarea=S04&undisplay_detail=1&wh=/cyberchair/2019/wi19/scripts/ws_submit.php)**
+
 <br>
 ## Abstract
 The ever-increasing demand for online content moderation and user

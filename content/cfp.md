@@ -6,15 +6,14 @@ weight: 2
 ---
 
 <br>
-**The 2nd TICS will focus on AI-assisted information controls**
+**The 2nd TICS CFP will focus on AI-assisted information controls**
 
 **Collocated with the IEEE/WIC/ACM International Conference on Web Intelligence <br>
-https://webintelligence2019.com (14-17 October 2019 | Thessaloniki, Greece)**
+(14 - 17 October 2019 | Thessaloniki, Greece) <br>**
+https://webintelligence2019.com
 
-**[Paper submission area](https://wi-lab.com/cyberchair/2019/wi19/scripts/submit.php?subarea=S04&undisplay_detail=1&wh=/cyberchair/2019/wi19/scripts/ws_submit.php)**
-
-<br>
 ## Abstract
+
 The ever-increasing demand for online content moderation and user
 profiling sees the adaptation of web intelligence concepts that were developed
 in good faith, into a censorship and surveillance apparatus owned by
@@ -28,8 +27,8 @@ forces behind these issues, and to propose alternative directions for building a
 semantic and human-centric web that promotes empowerment of individuals to decide
 on how their identities are -- or are not -- constructed and aggregated online.
 
-<br>
 ## Topics
+
 The goal of TICS is to raise awareness around the implications of network
 interference, by inviting researchers from complementary disciplines to consider
 the effect of their own domain on online censorship and surveillance. Along
@@ -54,20 +53,39 @@ those lines, we invite submissions that address the following topics:
     web intelligence in ways that build a pluralistic, private, and
     human-centric experience without violating user freedoms
 
-<br>
 ## Important dates
 
- * Paper Submission due: **July 10th, 2019**
- * Notification to authors: Aug 10th, 2019
- * Camera ready due: Aug 20th, 2019
+ * Paper Submission due:            **July 10th, 2019**
+ * Notification to authors:         Aug 10th, 2019
+ * Final, camera ready papers, due: Aug 20th, 2019
+ * Workshop date:                   Oct 14th, 2019
 
+## Paper Submission
+
+We accept submissions via Cyberchair in standard ACM Conference Proceedings
+format (max 8 pages). Submitted papers will undergo a peer review process,
+coordinated by the International Program Committee.
 <br>
+**[Paper Submission Page](https://wi-lab.com/cyberchair/2019/wi19/scripts/submit.php?subarea=S04&undisplay_detail=1&wh=/cyberchair/2019/wi19/scripts/ws_submit.php)**
+<br>
+
+Submitted papers should be limited to a maximum of 8 pages in the ACM 2-column
+format. The ACM Proceedings Manuscript Formatting Guidelines can be found at:
+https://www.acm.org/publications/proceedings-template
+
 ## Committees
 
 ### Program Chairs
+
 * Marios Isaakidis, PhD Canditate, University College London, UK m.isaakidis@cs.ucl.ac.uk
 * Vasilis Ververis, PhD Candidate, Humboldt University Berlin, Germany ververis@kth.se
-* Gunnar Wolf,  M. Eng., Universidad Nacional Autónoma de México, Mexico gwolf@gwolf.org
+* Gunnar Wolf, M. Eng., Universidad Nacional Autónoma de México, Mexico gwolf@gwolf.org
 
 ### Program Committee
-TBA
+
+* Bogdan Kulynych, EPFL
+* Chrystalenni Loizidou, University of Nicosia
+* Gabriele de Seta, Hong Kong Polytechnic University
+* Keith McManamen, Psiphon Inc.
+* Savvas A. Zannettou, Cyprus University of Technology
+* Will Scott, University of Michigan

@@ -6,7 +6,7 @@ weight: 2
 ---
 
 <br>
-**The 2nd TICS CFP will focus on AI-assisted information controls**
+**The 2nd TICS will focus on AI-assisted information controls**
 
 **Collocated with the IEEE/WIC/ACM International Conference on Web Intelligence <br>
 (14 - 17 October 2019 | Thessaloniki, Greece) <br>**
@@ -63,8 +63,8 @@ those lines, we invite submissions that address the following topics:
 ## Paper Submission
 
 We accept submissions via Cyberchair in standard ACM Conference Proceedings
-format (max 8 pages). Submitted papers will undergo a peer review process,
-coordinated by the International Program Committee.
+format (max 8 pages). Submitted papers will undergo a peer review process
+by the Program Committee.
 <br>
 **[Paper Submission Page](https://wi-lab.com/cyberchair/2019/wi19/scripts/submit.php?subarea=S04&undisplay_detail=1&wh=/cyberchair/2019/wi19/scripts/ws_submit.php)**
 <br>
@@ -83,7 +83,8 @@ https://www.acm.org/publications/proceedings-template
 
 ### Program Committee
 
-* Bogdan Kulynych, EPFL
+* Apostolos Pyrgelis, École Polytechnique Fédérale de Lausanne, Switzerland
+* Bogdan Kulynych, École Polytechnique Fédérale de Lausanne, Switzerland
 * Chrystalenni Loizidou, University of Nicosia
 * Gabriele de Seta, Hong Kong Polytechnic University
 * Keith McManamen, Psiphon Inc.

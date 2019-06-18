@@ -8,8 +8,8 @@ weight: 2
 <br>
 **The 2nd TICS will focus on AI-assisted information controls**
 
-**Collocated with the IEEE/WIC/ACM International Conference on Web Intelligence <br>
-(14 - 17 October 2019 | Thessaloniki, Greece) <br>**
+**Collocated with the 18th IEEE/WIC/ACM International Conference on Web Intelligence <br>
+(October 14, 2019 | Thessaloniki, Greece) <br>**
 https://webintelligence2019.com
 
 ## Abstract
@@ -62,29 +62,26 @@ those lines, we invite submissions that address the following topics:
 
 ## Paper Submission
 
-We accept submissions via Cyberchair in standard ACM Conference Proceedings
-format (max 8 pages). Submitted papers will undergo a peer review process
-by the Program Committee.
-<br>
 **[Paper Submission Page](https://wi-lab.com/cyberchair/2019/wi19/scripts/submit.php?subarea=S04&undisplay_detail=1&wh=/cyberchair/2019/wi19/scripts/ws_submit.php)**
 <br>
 
-Submitted papers should be limited to a maximum of 8 pages in the ACM 2-column
-format. The ACM Proceedings Manuscript Formatting Guidelines can be found at:
-https://www.acm.org/publications/proceedings-template
+Submitted papers should be limited to a maximum of 8 pages in the
+standard ACM 2-column format. The ACM Proceedings Manuscript Formatting
+Guidelines can be found at: https://www.acm.org/publications/proceedings-template
+
 
 ## Committees
 
 ### Program Chairs
 
-* Marios Isaakidis, PhD Canditate, University College London, UK m.isaakidis@cs.ucl.ac.uk
-* Vasilis Ververis, PhD Candidate, Humboldt University Berlin, Germany ververis@kth.se
-* Gunnar Wolf, M. Eng., Universidad Nacional Autónoma de México, Mexico gwolf@gwolf.org
+* Marios Isaakidis, University College London, m.isaakidis@cs.ucl.ac.uk
+* Vasilis Ververis, Humboldt University Berlin, ververis@kth.se
+* Gunnar Wolf, Universidad Nacional Autónoma de México, gwolf@gwolf.org
 
 ### Program Committee
 
-* Apostolos Pyrgelis, École Polytechnique Fédérale de Lausanne, Switzerland
-* Bogdan Kulynych, École Polytechnique Fédérale de Lausanne, Switzerland
+* Apostolos Pyrgelis, École Polytechnique Fédérale de Lausanne
+* Bogdan Kulynych, École Polytechnique Fédérale de Lausanne
 * Chrystalenni Loizidou, University of Nicosia
 * Gabriele de Seta, Hong Kong Polytechnic University
 * Keith McManamen, Psiphon Inc.

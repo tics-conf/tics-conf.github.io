@@ -16,7 +16,7 @@ any effective regulations in place. In addition, this infrastructure often
 supports the interests of big private corporations, such as the companies that
 enforce online copyright control.
 
-TICS is a special track the area of Internet censorship, surveillance and other
+TICS lies within the study area of Internet censorship, surveillance and other
 adversarial burdens to technology that bring in danger; to a greater extend the
 safety (physical security and privacy) of its users. Proposals for TICS
 should be situated within the field of Internet censorship, network
@@ -34,3 +34,11 @@ limitation of the availability of network services and online content
 interference
 - Research on the implications of automated or centralized user content
 regulation (such as for hate speech, copyright, or disinformation)
+
+We are interested in exploring the different sociotechnical aspects of
+Internet Censorship and Surveillance, hence, we look forward to
+academic conferences with different orientations willing to add TICS
+as a special track within them.
+
+Please contact us at `chairs@tics.site` for any collaboration
+suggestion, or for any questions regarding the nature of our work.

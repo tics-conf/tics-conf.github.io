@@ -16,10 +16,3 @@ theme = "mondrian"
     posts = "gold"
     page = "#cb0713"
     sketch = "limegreen"
-
-
-#[menu]
-#  [[menu.main]]
-#    name = "previous editions"
-#    url = "/past"
-#    weight = 1

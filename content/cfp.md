@@ -55,9 +55,9 @@ those lines, we invite submissions that address the following topics:
 
 ## Important dates
 
- * Paper Submission due:            **July 10th, 2019**
- * Notification to authors:         Aug 10th, 2019
- * Final, camera ready papers, due: Aug 20th, 2019
+ * Paper Submission due:            **July 19th, 2019** ~~July 10th, 2019~~
+ * Notification to authors:         Aug 15th, 2019
+ * Final, camera ready papers, due: Aug 25th, 2019
  * Workshop date:                   Oct 14th, 2019
 
 ## Paper Submission

@@ -74,9 +74,12 @@ Guidelines can be found at: https://www.acm.org/publications/proceedings-templat
 
 ### Program Chairs
 
-* Marios Isaakidis, University College London, m.isaakidis@cs.ucl.ac.uk
-* Vasilis Ververis, Humboldt University Berlin, ververis@kth.se
-* Gunnar Wolf, Universidad Nacional Autónoma de México, gwolf@gwolf.org
+* Marios Isaakidis, University College London, marios@tics.site
+* Vasilis Ververis, Humboldt University Berlin, vasilis@tics.site
+* Gunnar Wolf, Universidad Nacional Autónoma de México, gwolf@tics.site
+
+You can contact all of the chairs by addressing your mail to
+chairs@tics.site.
 
 ### Program Committee
 

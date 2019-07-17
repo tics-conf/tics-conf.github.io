@@ -88,5 +88,6 @@ chairs@tics.site.
 * Chrystalenni Loizidou, University of Nicosia
 * Gabriele de Seta, Hong Kong Polytechnic University
 * Keith McManamen, Psiphon Inc.
+* Nguyen Phong Hoang, Stony Brook University
 * Savvas A. Zannettou, Cyprus University of Technology
 * Will Scott, University of Michigan

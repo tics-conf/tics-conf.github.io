@@ -85,7 +85,7 @@ chairs@tics.site.
 
 * Apostolos Pyrgelis, École Polytechnique Fédérale de Lausanne
 * Bogdan Kulynych, École Polytechnique Fédérale de Lausanne
-* Chrystalenni Loizidou, University of Nicosia
+* Chrystalleni Loizidou, University of Nicosia
 * Gabriele de Seta, Hong Kong Polytechnic University
 * Keith McManamen, Psiphon Inc.
 * Nguyen Phong Hoang, Stony Brook University

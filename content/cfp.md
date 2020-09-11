@@ -89,7 +89,7 @@ those lines, we invite submissions that address the following topics:
 
 ## Important dates
 
-* Paper Submission due:            September 15th, 2020
+* Paper Submission due:            **September 25th, 2020**
 * Notification to authors:         October 15th, 2020
 * Final, camera ready papers, due: November 15th, 2020
 * Workshop date:                   December 14th, 2020

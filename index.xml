@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TICS - Topics on Internet Censorship and Surveillance</title>
+    <link>/</link>
+    <description>Recent content on TICS - Topics on Internet Censorship and Surveillance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>/cfp/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cfp/</guid>
+      <description>TICS 2020 Cancelled We regret to inform that TICS 2020 has been cancelled.</description>
+    </item>
+    
+    <item>
+      <title>About TICS</title>
+      <link>/about/</link>
+      <pubDate>Fri, 29 Mar 2019 22:11:29 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Over the past years there has been a greater demand for online censorship and surveillance, as an understandable reaction against hate speech, copyright violations, and other cases related to citizen compliance with civil laws and regulations by national authorities. Unfortunately, this is often accompanied by a tendency of extensively censoring online content and massively spying on citizens actions. Numerous whistleblower revelations, leaks from classified documents, and a vast amount of information released by activists, researchers and journalists, reveal evidence of government-sponsored infrastructure that either goes beyond the requirements and scope of the law, or operates without any effective regulations in place.</description>
+    </item>
+    
+    <item>
+      <title>TICS 2019</title>
+      <link>/2019/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/</guid>
+      <description>Chairs and Coordinators
+ Vasilis Ververis, PhD Candidate, Humboldt University Berlin, Germany ververis@kth.se Marios Isaakidis, PhD Canditate, University College London, UK m.isaakidis@cs.ucl.ac.uk Gunnar Wolf, M. Eng., Universidad Nacional Autónoma de México, Mexico gwolf@gwolf.org  Sessions CFP: https://www.iaria.org/conferences2019/filesICN19/TICS.pdf
+Conference Program: https://www.iaria.org/conferences2019/ProgramICN19.html
+ CENO and Ouinet: Ignore Censorship with P2P-Backed Web Browsing [presentation]
+Ivan Vilata-i-Balaguer, Peter Jankuliak, Dmitriy Volkov
+In Proc. of: International Conference on Networking and Services, 2019, ICN
+ Distributed Detection of Tor Directory Authorities Censorship in Mexico [paper, presentation]</description>
+    </item>
+    
+  </channel>
+</rss>
